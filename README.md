@@ -11,6 +11,7 @@ brew install start-cli/tap/start
 
 ## Formulae
 
+- [agentdex](https://github.com/start-cli/agentdex) - Detect AI coding agents installed on the local machine
 - [start](https://github.com/start-cli/start) - AI agent CLI orchestrator built on CUE
 
 ## License
